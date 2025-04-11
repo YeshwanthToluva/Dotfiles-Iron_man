@@ -29,4 +29,7 @@ yay -S swww mpvpaper
 ## 🎬 Live Demo
 
 🧪 Check out how it works below:
-<div align="center"> <iframe src="https://my-static-site-yeshwanth.s3.us-east-1.amazonaws.com/demo.html" width="100%" height="500px" style="border:1px solid #ccc; border-radius:10px;"></iframe> </div>
+<video width="100%" height="500px" controls>
+  <source src="https://my-static-site-yeshwanth.s3.us-east-1.amazonaws.com/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
