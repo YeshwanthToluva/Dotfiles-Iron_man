@@ -33,4 +33,3 @@ yay -S swww mpvpaper
   <source src="https://my-static-site-yeshwanth.s3.us-east-1.amazonaws.com/demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-## This is also a change
